@@ -11,6 +11,11 @@ body {
     padding: 0;
     background-color: rgb(8, 8, 8);
     color: rgb(235, 231, 231);
+
+}
+
+ h2,h3 {
+    color: rgb(8, 8, 8);
 }
 
 p {
