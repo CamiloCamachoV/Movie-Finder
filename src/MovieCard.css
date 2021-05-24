@@ -1,0 +1,6 @@
+  .card-img{
+   width: 50%!important;
+   height: 50%!important;
+   object-fit: cover;
+   margin-left: 25%;
+}
