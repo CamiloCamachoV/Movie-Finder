@@ -15,10 +15,12 @@ body {
 
 p {
     font-size: 1.6rem;
+    color: rgb(8, 8, 8);
 }
 
 small {
     font-size: 1.2rem;
+    color: rgb(8, 8, 8);
 }
 
 .container {

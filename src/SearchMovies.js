@@ -39,7 +39,6 @@ function SearchMovies() {
             <br></br>
             <div className="row">
             
-                
                     {movies.filter(movie => movie.poster_path).map(movie => (
                         <div className="col-sm-4" key={movie.id}>
                         <MovieCard movie={movie} key={movie.id}/>
